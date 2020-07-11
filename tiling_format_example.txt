@@ -1,0 +1,7 @@
+a-#FFFF00
+b-#00FF00
+c-#00FFFF
+sq1:a,a,a,a
+sq2:a,b,c,d
+sq3:b,c,d,b
+sq2
